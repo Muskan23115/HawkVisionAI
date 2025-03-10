@@ -28,12 +28,6 @@ Install the text file FIRST!! before running any of the scripts or else it won't
 - It helps to identify house pets i.e cats and dogs
 - It works in low light conditiosn like at night
 
-### [Youtube Link]
-I have provided a youtube link where I demo the application, you can see the full capabilities and the functions of my application via the link below:
-
-[Youtube Link](https://youtu.be/5VUF1SD0QZ4)
-
-
 ### [Output Images]
 Here are the output screenshots from my app:
 
